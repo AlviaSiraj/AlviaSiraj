@@ -1,5 +1,5 @@
 # Hi I'm Alvia 💫
-🧠 I am a software developer constantly working on improving my skills and learning new technology
+🧠 I am a software developer constantly working on improving my skills and learning new technology <br>
 🤝 Looking for work and open to new opportunities
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvia-siraj) 
